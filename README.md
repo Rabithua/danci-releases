@@ -1,6 +1,6 @@
 # Danci Releases
 
-[Danci](https://github.com/Rabithua/Danci) macOS 版本的分发仓库。
+Danci macOS 版本的分发仓库。
 
 ## 下载
 
