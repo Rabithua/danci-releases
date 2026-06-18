@@ -131,7 +131,7 @@
       <sparkle:version>202606181353</sparkle:version>
       <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/Rabithua/danci-releases/releases/download/v1.0.15/DanciMac-1.0.15.dmg" length="92068698" type="application/octet-stream" sparkle:edSignature="bnhmsmhDZRKYl3ASiz7YsVd7jYEPyLrglAm0KXPUKtAjZkik9+KROMjdRZFiTPlOO3UA4nqQFdKEa9L4W+AsAg==" />
+      <enclosure url="https://github.com/Rabithua/danci-releases/releases/download/v1.0.15/DanciMac-1.0.15.dmg" length="92070619" type="application/octet-stream" sparkle:edSignature="c5wM0enDZSW4QfwN/URDiGNJctGerDQkXF23o42yxVlkldX8pZPpmsZm5kSyA9nL+KM/5UkWezeUNpLC/KS+Bg==" />
       <sparkle:deltas>
         <enclosure url="https://github.com/Rabithua/danci-releases/releases/download/v1.0.15/DanciMac202606181353-202606010949.delta" sparkle:deltaFrom="202606010949" length="460618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RYMtHn0ZlPi+qKxOGdNYizo2CgIf6LbO6TpLVrRlndFoHqtrbGD/xgM9s+mftaydvPj4JKBjcySJx5IKeFijCg==" />
         <enclosure url="https://github.com/Rabithua/danci-releases/releases/download/v1.0.15/DanciMac202606181353-202605141355.delta" sparkle:deltaFrom="202605141355" length="464946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C1bgJeK0SAUbgaCbC71/kf9vNWXsTZTtDjymb1qDI48cHMrMv3p6eoCYx1P09bB8RxF8edXuw1XH1OYj5HK0AQ==" />
