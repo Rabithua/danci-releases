@@ -151,5 +151,18 @@
         <enclosure url="https://github.com/Rabithua/danci-releases/releases/download/v1.0.16/DanciMac202608051346-202605141355.delta" sparkle:deltaFrom="202605141355" length="4255682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8KS90ZpEP7ky/0rVowZ8IKmDfnLZoIxY7tPd1xOw6K/JdQwVGq5qRhBV20jcG2zBFs0O1SchgooVrWRQp3j+CA==" />
       </sparkle:deltas>
     </item>
+    <item>
+      <title>1.0.17</title>
+      <pubDate>Thu, 20 Aug 2026 18:05:28 +0800</pubDate>
+      <sparkle:version>202608201758</sparkle:version>
+      <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Rabithua/danci-releases/releases/download/v1.0.17/DanciMac-1.0.17.dmg" length="97663084" type="application/octet-stream" sparkle:edSignature="5dA0Je2fVZWjTV/ELSbBTwjvUG3PwG+FFDBPFLXVgZCBqDCt5vAGcaLXOYv2XVpYpB2rb+INyxQLEzTGlud2AQ==" />
+      <sparkle:deltas>
+        <enclosure url="https://github.com/Rabithua/danci-releases/releases/download/v1.0.17/DanciMac202608201758-202608051346.delta" sparkle:deltaFrom="202608051346" length="170102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7ZrkWk2a+n36PGRn+glyBaeTobVxGFgt8It/Kis8FwiIRd10Za3dj/3OYW9DYV9qABapeB71ektzCUXHEOENCw==" />
+        <enclosure url="https://github.com/Rabithua/danci-releases/releases/download/v1.0.17/DanciMac202608201758-202606181353.delta" sparkle:deltaFrom="202606181353" length="4472886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="o1GD4mYst9jBJHKAjJgrTgDXRDcXsVLEwAqTAW9fzM88jnfvaWIBHCOt84JxJwRTLZwsurSe5eYYUPkVOdtbCQ==" />
+        <enclosure url="https://github.com/Rabithua/danci-releases/releases/download/v1.0.17/DanciMac202608201758-202606010949.delta" sparkle:deltaFrom="202606010949" length="4250414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MGBLSh06m49KZvUhiEXNrvsq0SPv1bp1pK9RLeSl0bEP2/OJl59NJKeWtjBDZQtODvYoZoN+VEQ04UPF8AqaAQ==" />
+      </sparkle:deltas>
+    </item>
   </channel>
 </rss>
